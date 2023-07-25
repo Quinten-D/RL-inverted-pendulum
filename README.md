@@ -3,7 +3,7 @@ For this project, we’ll try to tackle the well-known inverted pendulum problem
 
 Using a heuristic policy:
 <p align="center">
-  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/assets/56118785/68f68134-74fe-4e40-bfb4-1e92230e4cc7.gif"
+  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/blob/main/heuristic_policy.gif"
     width="300" 
      height="300" />
 </p>
