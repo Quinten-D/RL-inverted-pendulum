@@ -3,11 +3,14 @@ For this project, we’ll try to tackle the well-known inverted pendulum problem
 
 Using a heuristic policy:
 <p align="center">
-  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/assets/56118785/68f68134-74fe-4e40-bfb4-1e92230e4cc7.gif">
+  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/assets/56118785/68f68134-74fe-4e40-bfb4-1e92230e4cc7.gif"
+    width="300" 
+     height="300" />
 </p>
-
 Using the learned DDPG policy:
 <p align="center">
-  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/assets/56118785/ecf9faa1-aa8f-48e5-a751-1e775986634b.gif">
+  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/assets/56118785/ecf9faa1-aa8f-48e5-a751-1e775986634b.gif"
+    width="300" 
+     height="300" />
 </p>
 
