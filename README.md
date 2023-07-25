@@ -9,7 +9,7 @@ Using a heuristic policy:
 </p>
 Using the learned DDPG policy:
 <p align="center">
-  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/assets/56118785/ecf9faa1-aa8f-48e5-a751-1e775986634b.gif"
+  <img src="https://github.com/Quinten-D/RL-inverted-pendulum/blob/main/minimal_DDPG.gif"
     width="300" 
      height="300" />
 </p>
